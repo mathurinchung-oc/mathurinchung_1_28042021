@@ -1,0 +1,3 @@
+[submodule "intel"]
+	path = intel
+	url = git@github.com:mathurinchung/intel.git
